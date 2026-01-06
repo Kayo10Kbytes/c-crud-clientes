@@ -3,7 +3,7 @@
 #include <string.h>
 
 #define MAX_CLIENTES 100
-#define ARQ_CLIENTES "clientes.csv"
+#define ARQ_CLIENTES "data/clientes.csv"
 
 typedef struct {
     int id;
